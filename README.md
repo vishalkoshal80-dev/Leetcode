@@ -36,6 +36,7 @@ My Daily Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
