@@ -37,6 +37,7 @@ My Daily Leetcode Solutions
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Prefix Sum
@@ -48,6 +49,7 @@ My Daily Leetcode Solutions
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
