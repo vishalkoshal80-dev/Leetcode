@@ -35,6 +35,7 @@ My Daily Leetcode Solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -48,6 +49,7 @@ My Daily Leetcode Solutions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -61,4 +63,8 @@ My Daily Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
