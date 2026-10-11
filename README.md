@@ -45,6 +45,7 @@ My Daily Leetcode Solutions
 | [0455-assign-cookies](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0561-array-partition](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
+| [0605-can-place-flowers](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0860-lemonade-change](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Prefix Sum
@@ -75,6 +76,7 @@ My Daily Leetcode Solutions
 | [0011-container-with-most-water](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
+| [0605-can-place-flowers](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0860-lemonade-change](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
