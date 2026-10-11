@@ -39,6 +39,7 @@ My Daily Leetcode Solutions
 | [0011-container-with-most-water](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0078-subsets](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -72,4 +73,12 @@ My Daily Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0001-two-sum/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
