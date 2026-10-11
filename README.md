@@ -42,6 +42,7 @@ My Daily Leetcode Solutions
 | [0078-subsets](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0455-assign-cookies](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Prefix Sum
@@ -57,6 +58,7 @@ My Daily Leetcode Solutions
 | [0125-valid-palindrome](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0455-assign-cookies](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +71,7 @@ My Daily Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0455-assign-cookies](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,4 +85,12 @@ My Daily Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0078-subsets/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
