@@ -39,6 +39,7 @@ My Daily Leetcode Solutions
 | [0011-container-with-most-water](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0040-combination-sum-ii](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -85,6 +86,7 @@ My Daily Leetcode Solutions
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0040-combination-sum-ii](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0077-combinations](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
