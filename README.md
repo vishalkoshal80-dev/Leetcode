@@ -70,6 +70,7 @@ My Daily Leetcode Solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0125-valid-palindrome](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@ My Daily Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +108,8 @@ My Daily Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 <!---LeetCode Topics End-->
