@@ -1,16 +1,19 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> res = new ArrayList<>();
-        bt(nums, 0, new ArrayList<>(), res);
-        return res;
+        List<List<Integer>> result = new ArrayList<>();
+        List<Integer> curr = new ArrayList<>();
+        solve(0, nums, result, curr);
+        return result;
         
     }
-    public void bt(int[] nums, int index, List<Integer> curr, List<List<Integer>> res){
-        res.add(new ArrayList<>(curr));
-        for(int i = index; i<nums.length; i++){
-            curr.add(nums[i]);
-            bt(nums, i+1, curr, res);
-            curr.remove(curr.size()-1);
+    public void solve(int index, int[] nums, List<List<Integer>> result, List<Integer> curr){
+        if(index == nums.length){
+            result.add(new ArrayList(curr));
+            return;
         }
+        curr.add(nums[index]);
+        solve(index+1, nums, result, curr);
+        curr.remove(curr.size()-1);
+        solve(index+1, nums, result, curr);
     }
 }
