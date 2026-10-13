@@ -1,12 +1,10 @@
-import java.util.*;
-
 class Solution {
     public long maxAlternatingSum(int[] nums) {
      long[] sq = new long[nums.length];
         for (int i = 0; i < nums.length; i++) {
             sq[i] = (long) nums[i] * nums[i];
         }
-        Arrays.sort(sq);
+        java.util.Arrays.sort(sq);
         long sum = 0;
         int n = nums.length;
         int k = (n + 1) / 2;
