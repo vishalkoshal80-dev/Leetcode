@@ -49,6 +49,7 @@ My Daily Leetcode Solutions
 | [0605-can-place-flowers](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0860-lemonade-change](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ My Daily Leetcode Solutions
 | [0561-array-partition](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0860-lemonade-change](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@ My Daily Leetcode Solutions
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
