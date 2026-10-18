@@ -37,6 +37,7 @@ My Daily Leetcode Solutions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0040-combination-sum-ii](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
@@ -59,6 +60,7 @@ My Daily Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -104,6 +106,7 @@ My Daily Leetcode Solutions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0455-assign-cookies](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
