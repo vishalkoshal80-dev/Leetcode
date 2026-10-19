@@ -51,6 +51,7 @@ My Daily Leetcode Solutions
 | [0605-can-place-flowers](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0860-lemonade-change](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@ My Daily Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +112,7 @@ My Daily Leetcode Solutions
 | [0088-merge-sorted-array](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0455-assign-cookies](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
