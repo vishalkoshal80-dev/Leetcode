@@ -7,6 +7,7 @@ My Daily Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [1518-water-bottles](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/1518-water-bottles/) | Easy |
 | [2235-add-two-integers](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -142,4 +143,8 @@ My Daily Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1518-water-bottles](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/1518-water-bottles/) | Easy |
 <!---LeetCode Topics End-->
