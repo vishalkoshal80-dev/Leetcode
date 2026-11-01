@@ -7,6 +7,7 @@ My Daily Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1518-water-bottles](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/1518-water-bottles/) | Easy |
 | [2235-add-two-integers](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 ## Linked List
@@ -46,6 +47,7 @@ My Daily Leetcode Solutions
 | [0088-merge-sorted-array](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0561-array-partition](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
