@@ -85,6 +85,7 @@ My Daily Leetcode Solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0125-valid-palindrome](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/vishalkoshal80-dev/Leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
